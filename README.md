@@ -2,6 +2,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RANKTW&amp;show_icons=true&theme=radical)
 
+<p> 
+  <h1 align="center">Visitor count since 2021<br>
+  <img src="https://profile-counter.glitch.me/RANKTW/count.svg" />
+    </h1>
+</p>
+
 <!--
 **RANKTW/RANKTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
