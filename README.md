@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on ~~[Private Project]~~ :grin:
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m collaborating with other Developers :wink:
-- 🥅 2021 Goals: learn more languages
+- 🥅 2022 Goals: learn more languages
 - 💬 Ask me about anything, I won't answer :smile:
 - 📬 How to reach me: Rᴬ឵ᴺᴷᵀ឵ᵂ#6666 - but please don't
 - ⚡ Fun fact: I love coding :raised_hands:
@@ -27,6 +27,7 @@
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
