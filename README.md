@@ -26,6 +26,8 @@
 <h3 align='center'> 🔭  I’m currently working with ...</h4>
 <br>
 <p align='center'>
+  <a href="https://www.jetbrains.com/idea/">
+  <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" /></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
