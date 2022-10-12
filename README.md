@@ -26,8 +26,6 @@
 <h3 align='center'> 🔭  I’m currently working with ...</h4>
 <br>
 <p align='center'>
-  <a href="https://www.jetbrains.com/idea/">
-  <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" /></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
@@ -46,6 +44,17 @@
   <img  src="https://img.shields.io/badge/angular%20-%23c21325.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/electron%20-%2361DAGB.svg?&style=for-the-badge&logo=electron&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+<h3 align='center'> 🌟  Favorite Software </h4>
+<br>
+<p align='center'>
+  <a href="https://www.jetbrains.com/idea/">
+  <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.notion.so/"><img height="30" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5b3fd8a6-d76e-4381-b004-963c4c85a186%2FFrame_546.png?table=block&id=ed456500-6f19-4a2f-be7d-3a4965d7b15a&spaceId=e12b42ac-4e54-476f-a4f5-7d6bdb1e61e2&width=40&userId=&cache=v2" /></a>&nbsp;&nbsp;
+  <a href="https://todoist.com/">
+  <img height="30" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" /></a>&nbsp;&nbsp;
 </p>
 
 <br>
