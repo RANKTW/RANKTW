@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on ~~[Private Project]~~ :grin:
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m collaborating with other Developers :wink:
-- 🥅 2022 Goals: learn more languages
+- 🥅 2023 Goals: learn more languages
 - 💬 Ask me about anything, I won't answer :smile:
 - 📬 How to reach me: Rᴬ឵ᴺᴷᵀ឵ᵂ#6666 - but please don't
 - ⚡ Fun fact: I love coding :raised_hands:
