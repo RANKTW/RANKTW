@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/RANKTW" />
+    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RANKTW&title=Views%20Daily/Total" alt="Views" />
 </p>
 
 <br>
