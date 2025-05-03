@@ -5,6 +5,7 @@
 
 <p align="center">
 <!--     <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RANKTW&title=Views%20Daily/Total" alt="Views" /> -->
+   <img align="center" src="https://komarev.com/ghpvc/?username=RANKTW&label=Profile%20views&color=orange&style=flat" alt="Views" />
 </p>
 
 <br>
